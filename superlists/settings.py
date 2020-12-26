@@ -25,7 +25,7 @@ SECRET_KEY = '6sm)%5lu^@=bvyet@yolv6k5c4v48pw60!=dtl&8qyxu1zg(cm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://ttdpythonomarstaging.tk:8000/','*']
+ALLOWED_HOSTS = ['http://ttdpythonomarstaging.tk','*']
 
 
 # Application definition
